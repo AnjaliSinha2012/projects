@@ -1,2 +1,2 @@
 # projects
-Making test projwcts
+Making test projects
